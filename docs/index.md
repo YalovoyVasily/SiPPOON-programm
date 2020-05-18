@@ -2,7 +2,7 @@
 
 ## Меню
 
-- [Требования к программе](/SiPPOON-programm/requirements.).
+- [Требования к программе](/SiPPOON-programm/requirements/).
 - Интерфейс программы.
 - Скачать 
 
