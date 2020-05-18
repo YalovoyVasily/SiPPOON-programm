@@ -4,7 +4,7 @@
 
 Требования к программе
 Интерфейс программы.
-Скачать
+Скачать 
 
 ![Большая синица](/SiPPOON-programm/images/parus_major.jpg)
 Большая синица. Автор фотоснимка: [hedera.baltica](https://www.flickr.com/photos/hedera_baltica/34112908396).
